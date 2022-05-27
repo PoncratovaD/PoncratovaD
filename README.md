@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PoncratovaD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ponkratova Dasha
+- 🌱 I’m currently learning physics at HSE uni
+- 📫 How to reach me:
+  - telegram: @d_ponka
+  - VK: @d_ponka
 
 <!---
 PoncratovaD/PoncratovaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
